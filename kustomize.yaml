@@ -1,4 +1,4 @@
 generators:
-- ./policyGenerator.yaml
+- policyGenerator.yaml
 commonLabels:
-  open-cluster-management.io/policy-set: openshift-hardening
+  open-cluster-management.io/policy-set: ansible
