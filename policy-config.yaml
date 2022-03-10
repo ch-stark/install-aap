@@ -26,4 +26,4 @@ policies:
     - setup
   disabled: false
   manifests:
-    - path: ../input
+    - path: inputresources
