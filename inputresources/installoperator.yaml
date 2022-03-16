@@ -11,9 +11,6 @@ kind: OperatorGroup
 metadata:
   name: ansible-automation-platform-operator
   namespace: ansible-automation-platform
-spec:
-  targetNamespaces:
-    - ansible-automation-platform
 ---
 apiVersion: operators.coreos.com/v1alpha1
 kind: Subscription
