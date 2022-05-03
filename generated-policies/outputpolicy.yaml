@@ -101,7 +101,7 @@ kind: PlacementBinding
 metadata:
   labels:
     open-cluster-management.io/policy-set: ansible
-  name: binding-example
+  name: binding-ansible
   namespace: policies
 placementRef:
   apiGroup: apps.open-cluster-management.io
